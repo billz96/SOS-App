@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UnipiPLIAlert</string>
+    <string name="sos_text">SOS will be sent in</string>
+    <string name="abort_btn">abort</string>
+    <string name="sos_btn">sos</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cancel_alert">Cancel Alert</string>
+    <string name="back">back</string>
+    <string name="sos_txt">SOS will be sent in</string>
+</resources>
